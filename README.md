@@ -1,3 +1,3 @@
 # mybinder
 My Binder Jupyter Notebook
-https://notebooks.gesis.org/binder/jupyter/user/banyuakik23-mybinder-yxkds8k0/lab
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/banyuakik23/mybinder.git/main)
